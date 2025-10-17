@@ -17,6 +17,3 @@ It can automatically:
 - 🧠 **LLM-Powered Agent** — Uses GPT (via OpenAI) to decide when and how to use tools.
 
 ---
-
-## 🧩 Project Structure
-
